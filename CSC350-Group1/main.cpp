@@ -6,7 +6,7 @@ using std::cin;
 
 int main()
 {
-	cout << "Welcome to CSC350: Graphics!" << endl;
+	cout << "Welcome to CSC350: Graphics!!" << endl;
 	cin.get();
 	return 0;
 }
